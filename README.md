@@ -13,6 +13,6 @@ Este projeto contém uma aplicação web simples construída com Node.js e Docke
 Primeiro, clone o repositório (se ainda não o fez):
 
 ```bash
-git clone https://seurepositorio.com
+git clone gh repo clone Danieldevjr/Docker
 cd nome-do-repositorio
 # Docker
